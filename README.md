@@ -31,6 +31,7 @@
         <li>Websites and e-shops design and hosting (Plesk server) (themes configuration-translate - wordpress,
             woocommerce, prestashop).</li>
         <li><a href="www.freshcup.gr">FreshCup.gr</a></li>
+        <li><a href="www.edgeofedgean.com">EdgeOfAegean.com</a></li>
         <li>Meliafab.gr</li>
     </ul>
     <h3>Reservist Diopos in the Hellenic Navy|November 2021-November 2022</h3>
